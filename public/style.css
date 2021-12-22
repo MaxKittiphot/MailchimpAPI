@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    margin: 10px;
+}
+
+div {
+  margin: 300px auto;
+}
+
+img {
+  height: 70px;
+}
+
+input {
+  display: block;
+  margin: 15px auto;
+}
+
+button {
+  margin: 18px;
+}
